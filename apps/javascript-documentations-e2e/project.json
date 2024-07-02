@@ -1,0 +1,9 @@
+{
+  "name": "javascript-documentations-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/javascript-documentations-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["javascript-documentations"],
+  "// targets": "to see all targets run: nx show project javascript-documentations-e2e --web",
+  "targets": {}
+}
