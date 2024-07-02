@@ -1,0 +1,9 @@
+{
+  "name": "crud-mern-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/crud-mern-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["crud-mern"],
+  "// targets": "to see all targets run: nx show project crud-mern-e2e --web",
+  "targets": {}
+}

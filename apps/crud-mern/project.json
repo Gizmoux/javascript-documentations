@@ -1,0 +1,9 @@
+{
+  "name": "crud-mern",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/crud-mern",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project crud-mern --web",
+  "targets": {}
+}
